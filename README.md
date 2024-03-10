@@ -1,2 +1,2 @@
 # izumi-swap
-using dex izumi to swap in brownie
+using brownie to swap in dex-app izumi
